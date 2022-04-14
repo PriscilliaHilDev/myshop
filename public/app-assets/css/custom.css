@@ -1,0 +1,26 @@
+/* Add here all your CSS customizations */
+/* faire media query pour mobile avec 358 ET 350*/
+.taille-img
+{
+    max-width: 258px;
+    max-height: 250px;
+    width: 258px;
+    height: 250px;
+}
+.div-img
+{
+    /* border: black 2px solid; */
+}
+
+.taille-filtre-img
+{
+    max-width: 258px;
+    max-height: 250px;
+    width: 258px;
+    height: 250px;
+}
+.div-filtre-img
+{
+    border: black 2px solid;
+}
+

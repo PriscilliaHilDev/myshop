@@ -1,0 +1,13 @@
+/* Add here all your CSS customizations */
+.taille-img
+{
+    max-width: 250px;
+    max-height: 250px;
+    width: 237px;
+    height: 235px;
+}
+.div-img
+{
+    /* border: black 2px solid; */
+}
+
